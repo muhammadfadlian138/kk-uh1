@@ -26,7 +26,7 @@
 <html lang="id">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prakiraan Cuaca BMKG</title>
+    <title>Prakiraan Cuaca BMKG2</title>
     <style>
         img { width: 20px; height: 20px; vertical-align: middle; margin-left: 5px; }
     </style>
